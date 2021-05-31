@@ -1,0 +1,8 @@
+1-a 
+40000H~4FFFFH (even address in U10 and odd address in U11)
+
+2-a
+Port A : 90H
+Port B : 92H
+Port C : 94H
+CR : 96H
